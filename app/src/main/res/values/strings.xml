@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpiderTask</string>
+    <string name="AddItem">Add Item</string>
+    <string name="editText" />
+    <string name="RemoveItem">Remove Item</string>
+    <string name="displayItem" />
+    <string name="DisplayItem" />
+    <string name="goBack">Go Back</string>
+    <string name="textview">Enter the position below</string>
+    <string name="name" />
+    <string name="textview5" />
+</resources>
